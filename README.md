@@ -3,7 +3,7 @@
 <p align="center">🔺upload de scripts para futuras reutilizações🔺</p>
 
 ##  Sobre o projeto
-<p>Esse projeto foi desenvolvido para o upload de arquivos shell script para futuras reutilizações. Sendo assim, toda nova máquina que for iniciada já estará pronta para uso quando o script for executado.
+<p>Esse projeto foi desenvolvido para o upload de arquivos shell script para futuras reutilizações. Sendo assim, toda nova máquina que for iniciada, já estará pronta para uso, quando o script for executado.
 </p>
 
 ---
